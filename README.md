@@ -20,7 +20,6 @@ I am currently studying an **AI Engineering preparation program**, progressing t
 
 **Python → Software Engineering → Databases & SQL → Data Engineering → Machine Learning → Deep Learning → AI Engineering**
 
-Currently, I am focusing on **Data Engineering**.
 
 ### 🚀 Projects
 
