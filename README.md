@@ -100,7 +100,8 @@ AI Engineering + MLOps
 The technologies above represent my learning roadmap.
 I am currently focused on Data Engineering and have not yet completed the later stages.
 
-🚀 Projects
+
+##🚀 Projects
 🤖 IoT-Based Virtual Doctor Assistant Robot
 
 Graduation Project — Mechatronics Engineering
@@ -113,7 +114,9 @@ IoT · Robotics · Sensors · Embedded Systems · Control
 
 More projects and coursework will be added here as I progress through my AI Engineering program.
 
-🏭 Industrial Experience
+
+
+##🏭 Industrial Experience
 
 Through my work with Eilaf Industrial Services & Engineering Solutions, I participated in the installation, calibration, commissioning, and maintenance of several industrial plants and engineering facilities.
 
@@ -123,7 +126,8 @@ Al-Ruwad Beverages & Juices Factory
 Al-Naeem Water Factory — Sana'a
 Rosa Al-Khalil Juice Factory
 Other industrial facilities and engineering projects
-🎯 Current Direction
+
+##🎯 Current Direction
 
 Building on my background in:
 
